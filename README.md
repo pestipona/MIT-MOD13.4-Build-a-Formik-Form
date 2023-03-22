@@ -57,7 +57,7 @@ The **starter code** can be found inside ```src/App.js```
 
 When you are **finished**, **upload a link** to this project to your **GitHub repository**.
 
-## Solution:
+# Solution to the Problem:
 
 ### 1. CD into the directory and run ```npm install```:
 
